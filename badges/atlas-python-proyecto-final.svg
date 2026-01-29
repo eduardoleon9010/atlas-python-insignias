@@ -19,7 +19,7 @@
 
   <!-- Logo Python -->
   <image
-    href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    href="https://img.shields.io/badge/Python-05122A?style=flat&logo=python"
     x="210"
     y="36"
     width="100"
