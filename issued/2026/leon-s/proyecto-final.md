@@ -1,6 +1,7 @@
 ## Insignia oficial
 
-![Insignia Proyecto Final – Atlas Python](https://raw.githubusercontent.com/eduardoleon9010/atlas-python-insignias/main/badges/atlas-python-proyecto-final.svg)
+[![Insignia Proyecto Final – Atlas Python](https://raw.githubusercontent.com/eduardoleon9010/atlas-python-insignias/main/badges/atlas-python-proyecto-final.svg)](https://github.com/eduardoleon9010/atlas-python-insignias/blob/main/issued/2026/leon-s/proyecto-final.md)
+
 
 
 
