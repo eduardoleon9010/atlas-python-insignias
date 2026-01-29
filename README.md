@@ -46,7 +46,7 @@ Ejemplo de insignia emitida:
 <p align="center">
   <a href="https://github.com/eduardoleon9010/atlas-python-insignias/blob/main/issued/2026/leon-s/proyecto-final.md">
     <img
-      src="https://raw.githubusercontent.com/eduardoleon9010/atlas-python-insignias/main/badges/Insignia%20de%20programaci%C3%B3n%20en%20Python.png"
+      src="[https://raw.githubusercontent.com/eduardoleon9010/atlas-python-insignias/main/badges/Insignia%20de%20programaci%C3%B3n%20en%20Python.png](https://github.com/eduardoleon9010/atlas-python-insignias/blob/main/badges/atlas-python-base.png)"
       alt="Insignia verificada – Proyecto Final Python"
       width="260"
     />
