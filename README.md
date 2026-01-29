@@ -1,4 +1,4 @@
-# Insignias Verificables  
+# Insignias verificadas  
 ## Atlas Interactivo de Programación en Python
 
 Este repositorio alberga las **insignias digitales oficiales y verificables**
