@@ -1,52 +1,17 @@
-<!-- SELLO PROYECTO FINAL -->
-<g id="sello-proyecto-final" transform="translate(600 430)">
-  <!-- Fondo del sello -->
-  <rect
-    x="-260"
-    y="-40"
-    rx="20"
-    ry="20"
-    width="520"
-    height="80"
-    fill="#0BC5EA"
-    opacity="0.15"
-  />
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200"
+     height="600"
+     viewBox="0 0 1200 600">
 
-  <!-- Borde -->
-  <rect
-    x="-260"
-    y="-40"
-    rx="20"
-    ry="20"
-    width="520"
-    height="80"
-    fill="none"
-    stroke="#0BC5EA"
-    stroke-width="2"
-  />
-
-  <!-- Ícono check -->
-  <circle cx="-200" cy="0" r="18" fill="#0BC5EA"/>
-  <path
-    d="M -208 0 L -200 8 L -188 -8"
-    fill="none"
-    stroke="#0B132B"
-    stroke-width="3"
-    stroke-linecap="round"
-    stroke-linejoin="round"
-  />
-
-  <!-- Texto -->
-  <text
+  <!-- Imagen base -->
+  <image
+    href="Insignia de programación en Python.png"
     x="0"
-    y="8"
-    text-anchor="middle"
-    font-size="26"
-    font-weight="600"
-    font-family="Segoe UI, Roboto, Arial, sans-serif"
-    fill="#E6F6FF"
-    letter-spacing="1"
-  >
-    PROYECTO FINAL • INSIGNIA VERIFICADA
-  </text>
-</g>
+    y="0"
+    width="1200"
+    height="600"
+    preserveAspectRatio="xMidYMid meet"
+  />
+
+</svg>
+
