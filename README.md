@@ -40,7 +40,21 @@ Una insignia es verificable porque:
 ### 🎖 Proyecto Final – Programación en Python
 
 Ejemplo de insignia emitida:  
-[Ver certificación](https://github.com/eduardoleon9010/atlas-python-insignias/blob/main/issued/2026/leon-s/proyecto-final.md)
+<p align="center">
+  <a href="https://github.com/eduardoleon9010/atlas-python-insignias/blob/main/issued/2026/leon-s/proyecto-final.md">
+    <img
+      src="https://raw.githubusercontent.com/eduardoleon9010/atlas-python-insignias/main/badges/atlas-python-proyecto-final.svg"
+      alt="Insignia verificable – Proyecto Final Python"
+      width="260"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Insignia verificable · Proyecto Final</strong><br>
+  Atlas Interactivo de Programación en Python
+</p>
+
 
 ---
 
