@@ -1,5 +1,4 @@
-# Insignias verificadas  
-## Atlas Interactivo de Programación en Python
+# Insignias verificadas  |  Atlas Interactivo de Programación en Python
 
 Este repositorio alberga las **insignias digitales oficiales y verificables**
 emitidas por el **Atlas Interactivo de Programación en Python**.
@@ -62,4 +61,22 @@ Ejemplo de insignia emitida:
 Proyecto académico y educativo  
 Autor del Atlas: **Leon, E. PhD**  
 
-© 2026 · Todos los derechos reservados
+
+
+
+<div align="center">
+
+<img src="./img/favic.png" width="140" alt="NexaTech" />
+
+<h3>Atlas Interactivo de Programación en Python</h3>
+
+<p>Una guía práctica para la era digital</p>
+
+<hr width="120" />
+
+<p>Proyecto académico y educativo</p>
+<p>© 2024 · Todos los derechos reservados</p>
+
+<code>aprender(); ejecutar(); comprender();</code>
+
+</div>
