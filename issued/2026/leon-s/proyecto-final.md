@@ -4,7 +4,9 @@
 **Insignia otorgada:** Proyecto final – Programación en Python  
 **Emitido por:** Atlas Interactivo de Programación en Python  
 **Autor del Atlas:** Leon, E., PhD
+
 **Fecha de emisión:**  20-01-2026
+
 **Versión del Atlas:** v1.0  
 
 
