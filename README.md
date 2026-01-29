@@ -1,4 +1,4 @@
-# Insignias Verificables  
+# Insignias verificables  
 ## Atlas Interactivo de Programación en Python
 
 <p align="center">
@@ -12,9 +12,9 @@ Las insignias certifican que un aprendiz ha completado de forma satisfactoria
 los **objetivos académicos, prácticos y formativos** definidos en el atlas,
 incluyendo la resolución de proyectos integradores basados en problemas reales.
 
----
 
-## Alcance académico
+
+**Alcance académico**
 
 Las insignias emitidas a través de este repositorio validan competencias en:
 
@@ -27,9 +27,7 @@ Las insignias emitidas a través de este repositorio validan competencias en:
 Cada insignia representa un **logro demostrable**, respaldado por evidencia
 pública y auditable.
 
----
-
-## Mecanismo de verificación
+**Mecanismo de verificación**
 
 La verificación se basa en principios de **transparencia y trazabilidad**:
 
@@ -44,9 +42,7 @@ La verificación se basa en principios de **transparencia y trazabilidad**:
 
 Este enfoque garantiza la **integridad académica** del reconocimiento.
 
----
-
-## Insignias emitidas
+**Insignias emitidas**
 
 Las insignias otorgadas pueden consultarse en el siguiente directorio:
 
@@ -56,11 +52,9 @@ https://github.com/eduardoleon9010/atlas-python-insignias/tree/main/issued
 
 Ejemplo de insignia verificada:
 
-https://github.com/eduardoleon9010/atlas-python-insignias/tree/main/issued/2026/leon-s
+[https://github.com/eduardoleon9010/atlas-python-insignias/tree/main/issued/2026/leon-s](https://github.com/eduardoleon9010/atlas-python-insignias/blob/main/issued/2026/leon-s/proyecto-final.md)
 
----
-
-## Uso de la insignia
+**Uso de la insignia**
 
 Las insignias pueden ser utilizadas por los aprendices en:
 
@@ -71,9 +65,7 @@ Las insignias pueden ser utilizadas por los aprendices en:
 
 Siempre enlazando al archivo oficial de verificación contenido en este repositorio.
 
----
-
-## Emisor oficial
+**Emisor oficial**
 
 **Atlas Interactivo de Programación en Python**  
 Proyecto académico y educativo orientado a la formación en programación  
