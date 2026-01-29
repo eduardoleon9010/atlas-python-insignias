@@ -1,4 +1,4 @@
-# Insignia Verificable  
+# Insignia verificable  
 ## Proyecto Final – Programación en Python
 
 **Nombre del aprendiz:**  
