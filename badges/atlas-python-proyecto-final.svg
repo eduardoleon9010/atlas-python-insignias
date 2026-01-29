@@ -1,38 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="420" height="140" viewBox="0 0 420 140">
+<svg width="520" height="320" viewBox="0 0 520 320" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="cyanGlow" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05122A"/>
+      <stop offset="100%" stop-color="#05122A"/>
+    </linearGradient>
+
+    <linearGradient id="accentGradient" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#00f3ff"/>
-      <stop offset="100%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
   </defs>
 
-  <rect x="5" y="5" rx="16" ry="16" width="410" height="130"
-        fill="#020617"
-        stroke="url(#cyanGlow)"
-        stroke-width="3"/>
+  <!-- Fondo -->
+  <rect x="0" y="0" width="520" height="320" rx="22" fill="url(#bgGradient)"/>
 
-  <text x="210" y="48"
+  <!-- Barra superior -->
+  <rect x="0" y="0" width="520" height="8" fill="url(#accentGradient)"/>
+
+  <!-- Logo Python PNG local -->
+  <image
+    href="img/python.png"
+    x="210"
+    y="50"
+    width="100"
+    height="100"
+  />
+
+  <!-- Título principal -->
+  <text x="260" y="185"
         text-anchor="middle"
-        font-size="20"
-        fill="#e5e7eb"
-        font-family="Segoe UI, Roboto, Arial, sans-serif"
+        font-size="22"
+        font-family="Arial, sans-serif"
+        fill="#ffffff"
         font-weight="600">
-    Atlas Interactivo de Programación
+    Programación en Python
   </text>
 
-  <text x="210" y="78"
+  <!-- Subtítulo -->
+  <text x="260" y="215"
         text-anchor="middle"
-        font-size="16"
-        fill="#67e8f9"
-        font-family="Segoe UI, Roboto, Arial, sans-serif">
-    Programacion – Python
+        font-size="14"
+        font-family="Arial, sans-serif"
+        fill="#94a3b8">
+    Atlas Interactivo de Programación en Python
   </text>
 
-  <text x="210" y="108"
+  <!-- Divider -->
+  <rect x="150" y="235" width="220" height="2" rx="1" fill="#00f3ff"/>
+
+  <!-- Verificación -->
+  <text x="260" y="265"
         text-anchor="middle"
         font-size="12"
-        fill="#94a3b8"
-        font-family="Segoe UI, Roboto, Arial, sans-serif">
-    Insignia verificada · GitHub
+        font-family="Arial, sans-serif"
+        fill="#7dd3fc"
+        letter-spacing="1.2">
+    INSIGNIA VERIFICADA · GITHUB
   </text>
 </svg>
+
