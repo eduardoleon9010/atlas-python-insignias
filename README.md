@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/Atlas Interactivo.jpg" alt="Vista previa del Atlas" width="600"/>
+</p>
+
 # Insignias verificadas  |  Atlas Interactivo de Programación en Python
 
 Este repositorio alberga las **insignias digitales oficiales y verificables**
