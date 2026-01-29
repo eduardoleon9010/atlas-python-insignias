@@ -1,5 +1,38 @@
-<p align="center">
-  <a href="https://github.com/eduardoleon9010/atlas-python-insignias">
-    <img src="https://img.shields.io/badge/Programación%20en%20Python-Insignia%20Verificada-05122A?style=flat&logo=python" alt="Insignia verificada – Programación en Python">
-  </a>
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="140" viewBox="0 0 420 140">
+  <defs>
+    <linearGradient id="cyanGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00f3ff"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="5" y="5" rx="16" ry="16" width="410" height="130"
+        fill="#020617"
+        stroke="url(#cyanGlow)"
+        stroke-width="3"/>
+
+  <text x="210" y="48"
+        text-anchor="middle"
+        font-size="20"
+        fill="#e5e7eb"
+        font-family="Segoe UI, Roboto, Arial, sans-serif"
+        font-weight="600">
+    Atlas Interactivo de Programación
+  </text>
+
+  <text x="210" y="78"
+        text-anchor="middle"
+        font-size="16"
+        fill="#67e8f9"
+        font-family="Segoe UI, Roboto, Arial, sans-serif">
+    Programacion – Python
+  </text>
+
+  <text x="210" y="108"
+        text-anchor="middle"
+        font-size="12"
+        fill="#94a3b8"
+        font-family="Segoe UI, Roboto, Arial, sans-serif">
+    Insignia verificada · GitHub
+  </text>
+</svg>
